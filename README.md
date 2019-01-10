@@ -1,6 +1,30 @@
 # neural_chatbot_papers
 Description of state-of-the-art approaches for neural dialogs generation
 
+---
+
+### Tokens encodings
+
+---
+
+### Sentence encodings
+
+---
+
+### Generative models
+
+#### Encoders
+
+#### Decoders
+
+---
+
+### Retrieval models
+
+---
+
+### Reranking models
+
 
 
 ## Sources of inspiration:
