@@ -5,6 +5,15 @@ Description of state-of-the-art approaches for neural dialogs generation
 
 ### Tokens encodings
 
+#### Sentence level
+* BERT
+* ELMO
+
+#### Tokens level
+* FastText
+* Word2Vec
+* Glove
+
 ---
 
 ### Sentence encodings
