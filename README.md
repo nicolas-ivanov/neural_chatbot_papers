@@ -18,21 +18,51 @@ Description of state-of-the-art approaches for neural dialogs generation
 
 ### Sentence encodings
 
+#### Transformers
+
+* BERT
+* OpenAI GPT
+
+#### RNN
+
+* Bidirectional LSTM
+
+#### CNN
+
+* ?
+
+#### DAN
+
 ---
 
 ### Generative models
 
-#### Encoders
+#### Encoder
 
-#### Decoders
+See "Sentence encodings"
+
+#### Mapper
+
+
+
+#### Decoder
+
+* Softmax
+* Von Mises-fisher Loss
 
 ---
 
 ### Retrieval models
 
+See "Sentence encodings"
+
 ---
 
 ### Reranking models
+
+---
+
+### Memory networks
 
 
 
