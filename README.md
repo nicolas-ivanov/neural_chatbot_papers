@@ -1,9 +1,8 @@
 # neural_chatbot_papers
 Description of state-of-the-art approaches for neural dialogs generation
 
----
 
-### Tokens encodings
+## Tokens encodings
 
 #### Sentence level
 * BERT
@@ -14,9 +13,8 @@ Description of state-of-the-art approaches for neural dialogs generation
 * Word2Vec
 * Glove
 
----
 
-### Sentence encodings
+## Sentence encodings
 
 #### Transformers
 * BERT
@@ -30,9 +28,9 @@ Description of state-of-the-art approaches for neural dialogs generation
 
 #### DAN
 
----
 
-### Generative models
+
+## Generative models
 
 #### Encoder
 See "Sentence encodings"
@@ -45,24 +43,24 @@ See "Sentence encodings"
 * Softmax
 * Von Mises-fisher Loss
 
----
 
-### Retrieval models
+
+## Retrieval models
 * see "Sentence encodings"
 * cross-attention
 
----
 
-### Reranking models
 
----
+## Reranking models
 
-### Memory networks
+
+
+## Memory networks
 Attention over external database.
 
+---
 
-
-## Sources of inspiration:
+#### Sources of inspiration:
 
 * [EMNLP'18](https://emnlp2018.org/schedule)
 * [NeurIPS'18](https://nips.cc/Conferences/2018/Schedule?bySubject=&selectedSubject=93&utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
